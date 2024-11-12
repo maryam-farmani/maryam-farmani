@@ -32,6 +32,13 @@ I am a frontend developer with a passion for creating dynamic and user-friendly 
 ![CSS Animations](https://img.shields.io/badge/-CSS_Animations-FF6347?style=flat&logo=css3)
 ![JavaScript Animations](https://img.shields.io/badge/-JavaScript_Animations-FF4500?style=flat&logo=javascript)
 
+### Experience
+| Position               | Company           | Employment Type | Duration            | Location                  | Work Setting | Skills            |
+|------------------------|-------------------|-----------------|---------------------|---------------------------|--------------|-------------------|
+| Front-End Developer    | ParaLead          | Part-time       | Feb 2024 - Present  | Shiraz, Fars Province, Iran | Remote       | Front-end Coding  |
+| Front-End Developer    | PaperScore        | Part-time       | Sep 2023 - Present  | Shiraz, Fars Province, Iran | Remote       | Front-end Coding  |
+| Front-End Developer    | Shiraz University | Full-time       | Jan 2022 - Sep 2023 | Iran                      | Hybrid       | Front-end Coding  |
+
 ### Contact Information
 - 📫 How to reach me: [farmanimaryam01@gmail.com](mailto:farmanimaryam01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maryam-farmani-2a52b3243)
 - ⚡ Fun fact: I love coffee, exciting adventures, exploring new places, and I am always eager to learn and improve.
