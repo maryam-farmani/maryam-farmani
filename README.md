@@ -42,7 +42,7 @@ I am a frontend developer with a passion for creating dynamic and user-friendly 
 
 ### Contact Information
 - 📫 How to reach me: [farmanimaryam01@gmail.com](mailto:farmanimaryam01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maryam-farmani-2a52b3243)
-- ⚡ Fun fact: I love coffee, exciting adventures, exploring new places, and I am always eager to learn and improve.
+- ⚡ Fun fact: I love coffee, exciting adventures, and I am always eager to learn and improve.
 
 ### Summary
 With a solid foundation in frontend development and a relentless drive for continuous learning and innovation, I strive to build efficient, scalable, and user-friendly web applications. My expertise includes mastering modern web technologies and best practices, ensuring high-quality results. My skills in SEO and team collaboration help me deliver technically sound projects that are also effectively executed within collaborative environments. Always eager to embrace new challenges, I am committed to creating impactful solutions that stand out.
