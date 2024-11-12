@@ -1,18 +1,10 @@
-👋 Hi there! I'm Maryam Farmani
+# 👋 Hi there! I'm Maryam Farmani
 
 💻 **Frontend Developer** | 🌟 **Tech Enthusiast**
 
 I am a frontend developer with a passion for creating dynamic and user-friendly web applications. I completed a 9-month programming course at Shiraz University, followed by a 6-month internship at the same institution. Since 2022, I have been actively working in this field, continually expanding my skills and knowledge.
 
-### Experience
-| Position               | Company           | Employment Type | Duration            | Location                  | Work Setting | Skills            |
-|------------------------|-------------------|-----------------|---------------------|---------------------------|--------------|-------------------|
-| Front-End Developer Intern | Shiraz University | Internship      | Jan 2022 - June 2022 | Iran                      | Hybrid       | Front-end Coding  |
-| Front-End Developer    | Shiraz University | Full-time       | Jan 2022 - Sep 2023  | Iran                      | Hybrid       | Front-end Coding  |
-| Front-End Developer    | PaperScore        | Part-time       | Sep 2023 - Present  | Shiraz, Fars Province, Iran | Remote       | Front-end Coding  |
-| Front-End Developer    | ParaLead          | Part-time       | Feb 2024 - Present  | Shiraz, Fars Province, Iran | Remote       | Front-end Coding  |
-
-### Skills & Tools
+## 🚀 Skills & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
@@ -40,9 +32,17 @@ I am a frontend developer with a passion for creating dynamic and user-friendly 
 ![CSS Animations](https://img.shields.io/badge/-CSS_Animations-FF6347?style=flat&logo=css3)
 ![JavaScript Animations](https://img.shields.io/badge/-JavaScript_Animations-FF4500?style=flat&logo=javascript)
 
-### Contact Information
+## 💼 Experience
+| Position               | Company           | Employment Type | Duration            | Location                  | Work Setting | Skills            |
+|------------------------|-------------------|-----------------|---------------------|---------------------------|--------------|-------------------|
+| Front-End Developer Intern | Shiraz University | Internship      | Jan 2022 - June 2022 | Iran                      | Hybrid       | Front-end Coding  |
+| Front-End Developer    | Shiraz University | Full-time       | Jan 2022 - Sep 2023  | Iran                      | Hybrid       | Front-end Coding  |
+| Front-End Developer    | PaperScore        | Part-time       | Sep 2023 - Present  | Shiraz, Fars Province, Iran | Remote       | Front-end Coding  |
+| Front-End Developer    | ParaLead          | Part-time       | Feb 2024 - Present  | Shiraz, Fars Province, Iran | Remote       | Front-end Coding  |
+
+## 🔗 Contact Information
 - 📫 How to reach me: [farmanimaryam01@gmail.com](mailto:farmanimaryam01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maryam-farmani-2a52b3243)
 - ⚡ Fun fact: I love coffee, exciting adventures, and I am always eager to learn and improve.
 
-### Summary
+## 📝 Summary
 With a solid foundation in frontend development and a relentless drive for continuous learning and innovation, I strive to build efficient, scalable, and user-friendly web applications. My expertise includes mastering modern web technologies and best practices, ensuring high-quality results. My skills in SEO and team collaboration help me deliver technically sound projects that are also effectively executed within collaborative environments. Always eager to embrace new challenges, I am committed to creating impactful solutions that stand out.
