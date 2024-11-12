@@ -28,6 +28,9 @@ I am a frontend developer with a passion for creating dynamic and user-friendly 
 ![Cross-Browser Compatibility](https://img.shields.io/badge/-Cross--Browser_Compatibility-4A90E2?style=flat&logo=cross-browser)
 ![SEO](https://img.shields.io/badge/-SEO-4285F4?style=flat&logo=seo)
 ![Team Collaboration](https://img.shields.io/badge/-Team_Collaboration-FF9800?style=flat&logo=team-collaboration)
+![Performance Optimization](https://img.shields.io/badge/-Performance_Optimization-FFD700?style=flat&logo=performance)
+![CSS Animations](https://img.shields.io/badge/-CSS_Animations-FF6347?style=flat&logo=css3)
+![JavaScript Animations](https://img.shields.io/badge/-JavaScript_Animations-FF4500?style=flat&logo=javascript)
 
 ### Contact Information
 - 📫 How to reach me: [farmanimaryam01@gmail.com](mailto:farmanimaryam01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maryam-farmani-2a52b3243)
