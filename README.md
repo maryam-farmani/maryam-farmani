@@ -1,48 +1,84 @@
-# 👋 Hi there! I'm Maryam Farmani
+<!-- Banner -->
+<h1 align="center">Hi, I'm Maryam Farmani 👋</h1>
+<h3 align="center">Frontend Developer | Full‑Stack JavaScript Engineer | Web3 Integrator</h3>
 
-💻 **Frontend Developer** | 🌟 **Tech Enthusiast**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-farmani&theme=tokyonight" alt="streak"/>
+</p>
 
-I am a frontend developer with a passion for creating dynamic and user-friendly web applications. I completed a 9-month programming course at Shiraz University, followed by a 6-month internship at the same institution. Since 2022, I have been actively working in this field, continually expanding my skills and knowledge.
+---
 
-## 🚀 Skills & Tools
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
-![RESTful API](https://img.shields.io/badge/-RESTful_API-02569B?style=flat&logo=api)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Clean Code](https://img.shields.io/badge/-Clean_Code-4CAF50?style=flat&logo=clean-code)
-![Responsive Design](https://img.shields.io/badge/-Responsive_Design-2C8EBB?style=flat&logo=responsive-design)
-![Accessibility](https://img.shields.io/badge/-Accessibility-32A852?style=flat&logo=accessibility)
-![Cross-Browser Compatibility](https://img.shields.io/badge/-Cross--Browser_Compatibility-4A90E2?style=flat&logo=cross-browser)
-![SEO](https://img.shields.io/badge/-SEO-4285F4?style=flat&logo=seo)
-![Team Collaboration](https://img.shields.io/badge/-Team_Collaboration-FF9800?style=flat&logo=team-collaboration)
-![Performance Optimization](https://img.shields.io/badge/-Performance_Optimization-FFD700?style=flat&logo=performance)
-![CSS Animations](https://img.shields.io/badge/-CSS_Animations-FF6347?style=flat&logo=css3)
-![JavaScript Animations](https://img.shields.io/badge/-JavaScript_Animations-FF4500?style=flat&logo=javascript)
+## 🚀 About Me
+I’m a **Frontend Developer** specialized in **React, Next.js, TypeScript**, and **Web3 integration using Ethers.js**.  
+I build **scalable, high‑performance applications** with clean architecture, reusable UI patterns, and production‑grade code quality.
 
-## 💼 Experience
-| Position               | Company           | Employment Type | Duration            | Location                  | Work Setting | Skills            |
-|------------------------|-------------------|-----------------|---------------------|---------------------------|--------------|-------------------|
-| Front-End Developer Intern | Shiraz University | Internship      | Jan 2022 - June 2022 | Iran                      | Hybrid       | Front-end Coding  |
-| Front-End Developer    | Shiraz University | Full-time       | Jan 2022 - Sep 2023  | Iran                      | Hybrid       | Front-end Coding  |
-| Front-End Developer    | PaperScore        | Part-time       | Sep 2023 - Present  | Shiraz, Fars Province, Iran | Remote       | Front-end Coding  |
-| Front-End Developer    | ParaLead          | Part-time       | Feb 2024 - Present  | Shiraz, Fars Province, Iran | Remote       | Front-end Coding  |
+I also work across the stack with **Node.js, PostgreSQL, MongoDB**, delivering complete end‑to‑end features.
 
-## 🔗 Contact Information
-- 📫 How to reach me: [farmanimaryam01@gmail.com](mailto:farmanimaryam01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maryam-farmani-2a52b3243)
-- ⚡ Fun fact: I love coffee, exciting adventures, and I am always eager to learn and improve.
+---
 
-## 📝 Summary
-With a solid foundation in frontend development and a relentless drive for continuous learning and innovation, I strive to build efficient, scalable, and user-friendly web applications. My expertise includes mastering modern web technologies and best practices, ensuring high-quality results. My skills in SEO and team collaboration help me deliver technically sound projects that are also effectively executed within collaborative environments. Always eager to embrace new challenges, I am committed to creating impactful solutions that stand out.
+## 🧠 Tech Stack
+
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![MUI](https://img.shields.io/badge/-Material_UI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
+
+### **State Management**
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=for-the-badge)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000?logo=express&style=for-the-badge)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+
+### **Web3**
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-4B32C3?style=for-the-badge)
+![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?logo=metamask&logoColor=fff&style=for-the-badge)
+
+### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+
+### 🎧 **Music Player**
+Custom UI, animations, and audio engine — JavaScript.
+
+### 📝 **Personal Notes (TypeScript)**
+Modular architecture, clean code, scalable structure.
+
+### 📦 **Webpack Todo**
+Bundling, modular JS patterns, optimized build.
+
+### 🛒 **Divar Clone**
+Responsive UI, pixel‑perfect layout, clean HTML/CSS.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maryam-farmani&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-farmani&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📫 Contact Me
+📧 **Email:** farmanimaryam01@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/maryam-farmani  
+🐙 **GitHub:** github.com/maryam-farmani  
+
+---
+
+### ☕ Fun Fact  
+I love coffee, beautiful UI, and exploring new technologies every day.
