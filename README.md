@@ -1,234 +1,171 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset=".github/assets/hero-light.svg">
-  <img alt="Maryam Farmani — Software Engineer" src=".github/assets/hero-light.svg" width="100%">
-</picture>
-
-<br />
 
 <div align="center">
 
+# Maryam Farmani
+
+Software Engineer • Backend • Architecture • Product Engineering
+
+<br>
+
 <a href="mailto:farmanimaryam01@gmail.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+•
 <a href="https://linkedin.com/in/maryam-farmani">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+•
 <a href="https://github.com/maryam-farmani">GitHub</a>
 
 </div>
 
 ---
 
-## About
+# About
 
-I build web applications with a strong focus on architecture, maintainability and product quality.
+I build software that lasts.
 
-My work combines backend engineering, frontend development and system design to create software that is practical to operate, straightforward to extend and comfortable for teams to maintain.
+My primary focus is backend engineering and software architecture, designing systems that remain reliable, maintainable and scalable as products evolve.
 
-Recently, I have been working on enterprise platforms, digital health products and business applications using modern JavaScript and TypeScript technologies.
+I enjoy transforming business requirements into well-structured software through thoughtful architecture, clean APIs and pragmatic engineering decisions.
 
----
-
-## What I am building
-
-<table>
-<tr>
-<td width="50%">
-
-### Health technology platforms
-
-Digital products for healthcare, commerce, content and operational workflows.
-
-</td>
-<td width="50%">
-
-### Enterprise web applications
-
-Internal tools for production, inventory, reporting and business process management.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Scalable backend services
-
-API-first systems designed around clear boundaries, security and maintainability.
-
-</td>
-<td width="50%">
-
-### AI-ready product architecture
-
-Foundations prepared for recommendations, assistants, knowledge bases and automation.
-
-</td>
-</tr>
-</table>
+Most of my recent work has been centered around enterprise platforms, health technology products and business applications built with modern JavaScript and TypeScript.
 
 ---
 
-## Featured work
+# Engineering Philosophy
 
-<table>
-<tr>
-<td width="50%">
+I believe software should become easier to evolve—not harder—as it grows.
 
-<img src=".github/assets/project-health-commerce.svg" alt="Health-Commerce Platform" width="100%" />
+When building products, I focus on:
 
-### Health-Commerce Platform
+- Designing clear system boundaries
+- Building maintainable architectures
+- Keeping complexity under control
+- Writing readable and predictable code
+- Delivering practical business value
+- Creating software that teams enjoy working on
 
-A modular platform combining commerce, content management and digital health services.
+---
 
-**Selected capabilities**
+# Featured Projects
 
-- Modular backend architecture
-- Authentication and authorization
-- OTP authentication
-- Role-based access control
-- Product management
-- Object storage
-- API documentation
-- AI-ready foundation
+## Health-Commerce Platform
 
-**Technology**
+A modular platform combining digital health, commerce, content management and AI-ready architecture.
 
-`Next.js` `NestJS` `PostgreSQL` `Prisma` `Redis` `Docker` `MinIO`
+### Highlights
 
-</td>
-<td width="50%">
+- Modular Backend Architecture
+- Authentication & Authorization
+- OTP Authentication
+- Role-Based Access Control
+- Product Management
+- Object Storage
+- API Documentation
+- AI-ready Foundation
 
-<img src=".github/assets/project-enterprise.svg" alt="Enterprise Operations Platform" width="100%" />
+**Stack**
 
-### Enterprise Operations Platform
+`Next.js`
+`NestJS`
+`TypeScript`
+`Prisma`
+`PostgreSQL`
+`Redis`
+`Docker`
+`MinIO`
 
-Business platform supporting production workflows, inventory management and operational processes.
+---
 
-**Selected capabilities**
+## Enterprise Operations Platform
 
-- Batch management
-- Inventory workflows
+Internal software for production management, inventory workflows and operational processes.
+
+### Highlights
+
+- Batch Tracking
+- Inventory Management
 - Reporting
-- File management
-- Access control
-- Dashboard interfaces
-- Operational process design
+- File Management
+- Access Control
+- Business Workflow Automation
 
-**Technology**
+**Stack**
 
-`React` `Node.js` `Express` `MongoDB` `REST API`
-
-</td>
-</tr>
-</table>
+`React`
+`Node.js`
+`Express`
+`MongoDB`
 
 ---
 
-## Engineering stack
+# Core Technologies
 
-<table>
-<tr>
-<td width="25%">
+### Languages
+
+TypeScript • JavaScript • SQL
 
 ### Frontend
 
-Next.js  
-React  
-TypeScript  
-JavaScript  
-Tailwind CSS  
-Material UI
-
-</td>
-<td width="25%">
+Next.js • React • Tailwind CSS • Material UI
 
 ### Backend
 
-NestJS  
-Node.js  
-Express  
-REST APIs  
-JWT  
-RBAC  
-Swagger
+NestJS • Node.js • Express • REST APIs
 
-</td>
-<td width="25%">
+### Database
 
-### Data
-
-PostgreSQL  
-Prisma ORM  
-MongoDB  
-Redis  
-SQL  
-Schema Design
-
-</td>
-<td width="25%">
+PostgreSQL • Prisma • MongoDB • Redis
 
 ### Infrastructure
 
-Docker  
-Linux  
-MinIO  
-Nginx  
-GitHub Actions  
-Git
-
-</td>
-</tr>
-</table>
+Docker • Linux • Nginx • GitHub Actions • MinIO
 
 ---
 
-## Engineering principles
+# Areas of Interest
 
-I value software that stays maintainable as products evolve.
-
-That means choosing simple solutions when possible, writing code that communicates intent clearly and designing systems that teams can confidently build upon.
-
-Technology changes quickly. Clear engineering decisions tend to last much longer.
-
----
-
-## Current interests
-
-- Backend architecture
-- Product engineering
-- Platform design
-- Cloud infrastructure
-- AI-assisted development
-- Developer experience
+- Backend Engineering
+- Software Architecture
+- Distributed Systems
+- Product Engineering
+- Cloud Infrastructure
+- AI-powered Products
+- Developer Experience
 
 ---
 
-## Contribution
+# GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryam-farmani/maryam-farmani/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryam-farmani/maryam-farmani/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/maryam-farmani/maryam-farmani/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/maryam-farmani/maryam-farmani/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/maryam-farmani/maryam-farmani/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Graph"
+src="https://raw.githubusercontent.com/maryam-farmani/maryam-farmani/output/github-contribution-grid-snake.svg">
+
+</picture>
+
 </p>
 
 ---
 
-## Contact
-
-**Email**  
-farmanimaryam01@gmail.com
-
-**LinkedIn**  
-https://linkedin.com/in/maryam-farmani
-
-**GitHub**  
-https://github.com/maryam-farmani
-
-<br />
-
 <div align="center">
 
-> Good software solves problems. Great software remains easy to improve.
+*"Good architecture is not about adding complexity. It's about making complexity manageable."*
+
+<br><br>
+
+<a href="mailto:farmanimaryam01@gmail.com">Email</a>
+•
+<a href="https://linkedin.com/in/maryam-farmani">LinkedIn</a>
+•
+<a href="https://github.com/maryam-farmani">GitHub</a>
 
 </div>
