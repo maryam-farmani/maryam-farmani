@@ -1,0 +1,21 @@
+<svg width="560" height="220" viewBox="0 0 560 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Health-Commerce Platform</title>
+<desc id="desc">Project card for health-commerce platform.</desc>
+<rect width="560" height="220" rx="22" fill="#0B1120"/>
+<rect x="1" y="1" width="558" height="218" rx="21" stroke="#243044"/>
+<circle cx="470" cy="42" r="96" fill="#0EA5E9" fill-opacity="0.12"/>
+<circle cx="510" cy="70" r="62" fill="#22C55E" fill-opacity="0.10"/>
+<text x="34" y="58" fill="#E5E7EB" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="600" letter-spacing="2">FEATURED PROJECT</text>
+<text x="34" y="104" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui" font-size="32" font-weight="700" letter-spacing="-0.8">Health-Commerce Platform</text>
+<text x="34" y="138" fill="#A7B0C0" font-family="Inter, ui-sans-serif, system-ui" font-size="16" font-weight="500">Commerce, content, health services and AI-ready architecture.</text>
+<g transform="translate(34 164)">
+<rect width="70" height="28" rx="14" fill="#111827" stroke="#334155"/>
+<text x="17" y="19" fill="#E5E7EB" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="600">NestJS</text>
+<rect x="82" width="74" height="28" rx="14" fill="#111827" stroke="#334155"/>
+<text x="99" y="19" fill="#E5E7EB" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="600">Next.js</text>
+<rect x="168" width="74" height="28" rx="14" fill="#111827" stroke="#334155"/>
+<text x="185" y="19" fill="#E5E7EB" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="600">Prisma</text>
+<rect x="254" width="94" height="28" rx="14" fill="#111827" stroke="#334155"/>
+<text x="272" y="19" fill="#E5E7EB" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="600">Postgres</text>
+</g>
+</svg>
