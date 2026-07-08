@@ -1,0 +1,20 @@
+<svg width="560" height="220" viewBox="0 0 560 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Enterprise Operations Platform</title>
+<desc id="desc">Project card for enterprise operations platform.</desc>
+<rect width="560" height="220" rx="22" fill="#111113"/>
+<rect x="1" y="1" width="558" height="218" rx="21" stroke="#2D2D32"/>
+<path d="M376 0H560V220H326C377 176 405 126 410 70C413 36 400 13 376 0Z" fill="#FFFFFF" fill-opacity="0.04"/>
+<text x="34" y="58" fill="#D4D4D8" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="600" letter-spacing="2">OPERATIONS</text>
+<text x="34" y="104" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui" font-size="32" font-weight="700" letter-spacing="-0.8">Enterprise Platform</text>
+<text x="34" y="138" fill="#A1A1AA" font-family="Inter, ui-sans-serif, system-ui" font-size="16" font-weight="500">Production workflows, inventory, reporting and management tools.</text>
+<g transform="translate(34 164)">
+<rect width="66" height="28" rx="14" fill="#18181B" stroke="#3F3F46"/>
+<text x="16" y="19" fill="#E4E4E7" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="600">React</text>
+<rect x="78" width="76" height="28" rx="14" fill="#18181B" stroke="#3F3F46"/>
+<text x="97" y="19" fill="#E4E4E7" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="600">Node.js</text>
+<rect x="166" width="78" height="28" rx="14" fill="#18181B" stroke="#3F3F46"/>
+<text x="185" y="19" fill="#E4E4E7" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="600">Express</text>
+<rect x="256" width="86" height="28" rx="14" fill="#18181B" stroke="#3F3F46"/>
+<text x="275" y="19" fill="#E4E4E7" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="600">MongoDB</text>
+</g>
+</svg>
