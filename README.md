@@ -1,171 +1,100 @@
-
-<div align="center">
-
 # Maryam Farmani
+**Full‑Stack JavaScript Engineer • Backend Architecture • DevOps • Web3 Integration**
 
-Software Engineer • Backend • Architecture • Product Engineering
-
-<br>
-
-<a href="mailto:farmanimaryam01@gmail.com">Email</a>
-•
-<a href="https://linkedin.com/in/maryam-farmani">LinkedIn</a>
-•
-<a href="https://github.com/maryam-farmani">GitHub</a>
-
-</div>
+[Email](mailto:farmanimaryam01@gmail.com) • [LinkedIn](https://www.linkedin.com/in/maryam-farmani-2a52b3243) • [GitHub](https://github.com/maryam-farmani)
 
 ---
 
-# About
+## About
+I build software systems that remain reliable, maintainable, and scalable as they grow.  
+My experience covers **backend engineering**, **frontend development**, **DevOps workflows**, **database design**, and **Web3 integration** — enabling me to deliver complete end‑to‑end products with clean architecture and predictable behavior.
 
-I build software that lasts.
+Over the years, I’ve worked on enterprise platforms, operational systems, and modular backend architectures, gaining hands‑on experience with real production challenges such as scaling, security, performance, and workflow automation.
 
-My primary focus is backend engineering and software architecture, designing systems that remain reliable, maintainable and scalable as products evolve.
-
-I enjoy transforming business requirements into well-structured software through thoughtful architecture, clean APIs and pragmatic engineering decisions.
-
-Most of my recent work has been centered around enterprise platforms, health technology products and business applications built with modern JavaScript and TypeScript.
+I focus on designing systems that stay easy to evolve, even as complexity increases.
 
 ---
 
-# Engineering Philosophy
+## Engineering Philosophy
+Software should become easier to evolve—not harder—as it grows.
 
-I believe software should become easier to evolve—not harder—as it grows.
+I prioritize:
 
-When building products, I focus on:
-
-- Designing clear system boundaries
-- Building maintainable architectures
-- Keeping complexity under control
-- Writing readable and predictable code
-- Delivering practical business value
-- Creating software that teams enjoy working on
-
----
-
-# Featured Projects
-
-## Health-Commerce Platform
-
-A modular platform combining digital health, commerce, content management and AI-ready architecture.
-
-### Highlights
-
-- Modular Backend Architecture
-- Authentication & Authorization
-- OTP Authentication
-- Role-Based Access Control
-- Product Management
-- Object Storage
-- API Documentation
-- AI-ready Foundation
-
-**Stack**
-
-`Next.js`
-`NestJS`
-`TypeScript`
-`Prisma`
-`PostgreSQL`
-`Redis`
-`Docker`
-`MinIO`
+- Clear and stable system boundaries  
+- Maintainable backend and frontend architectures  
+- Controlled complexity  
+- Readable, predictable code  
+- Practical, product‑driven engineering  
+- Building systems teams enjoy working with  
 
 ---
 
-## Enterprise Operations Platform
+# 🛠 Core Technologies
 
-Internal software for production management, inventory workflows and operational processes.
-
-### Highlights
-
-- Batch Tracking
-- Inventory Management
-- Reporting
-- File Management
-- Access Control
-- Business Workflow Automation
-
-**Stack**
-
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-
----
-
-# Core Technologies
-
-### Languages
-
+## Languages
 TypeScript • JavaScript • SQL
 
-### Frontend
+## Frontend
+Next.js • React • TypeScript • Tailwind CSS • Material UI  
+SSR • SSG • ISR • Component Architecture  
+State Management (Redux, Zustand, Context API)
 
-Next.js • React • Tailwind CSS • Material UI
+## Backend
+NestJS • Node.js • Express • REST APIs  
+Authentication & Authorization (JWT, OAuth)  
+RBAC • Middleware Architecture • Logging • Error Handling  
+Swagger API Documentation
 
-### Backend
+## Databases
+PostgreSQL • Prisma • MongoDB • Redis  
+Schema Design • Aggregation Pipelines • Query Optimization
 
-NestJS • Node.js • Express • REST APIs
+## Infrastructure
+Docker • Linux • Nginx • GitHub Actions • MinIO  
+CI/CD Pipelines • Containerization • Deployment Workflows
 
-### Database
+## Web3 Integration
+Ethers.js • Smart Contract Integration  
+MetaMask • WalletConnect • Coinbase Wallet  
+ABI Handling • Gas Estimation • Transaction Management  
+Event Listeners • Real-Time Updates • Secure DApp UX
 
-PostgreSQL • Prisma • MongoDB • Redis
-
-### Infrastructure
-
-Docker • Linux • Nginx • GitHub Actions • MinIO
+## Testing
+Unit Testing • Integration Testing • API Testing  
+Coverage • CI Validation • Clean Architecture Testing Patterns
 
 ---
 
-# Areas of Interest
+# Professional Experience
 
-- Backend Engineering
-- Software Architecture
-- Distributed Systems
-- Product Engineering
-- Cloud Infrastructure
-- AI-powered Products
-- Developer Experience
+### **Full‑Stack JavaScript Developer — Vito (On-site)**  
+*2025 – Present*  
+Building full‑stack features, backend modules, and scalable frontend systems for enterprise-grade applications.
+
+### **Front-End Developer — ParaLead (Remote)**  
+*2024 – 2025*  
+Developed UI components, dashboards, and optimized client-side performance for production environments.
+
+### **Front-End Developer — PaperScore (Remote)**  
+*2023 – 2025*  
+Implemented responsive interfaces, improved UX flows, and collaborated on API integrations.
+
+### **Front-End Developer — Shiraz University (Hybrid)**  
+*2022 – 2023*  
+Worked on academic platforms, internal dashboards, and frontend architecture.
+
+### **Freelance Full‑Stack Developer — Remote**  
+*2022 – Present*  
+Delivered complete end‑to‑end solutions including UI, backend, database, deployment, and Web3 integrations.
 
 ---
 
 # GitHub Activity
 
-<p align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/maryam-farmani/maryam-farmani/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/maryam-farmani/maryam-farmani/output/github-contribution-grid-snake.svg">
-
-<img
-alt="GitHub Contribution Graph"
-src="https://raw.githubusercontent.com/maryam-farmani/maryam-farmani/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</p>
+![Snake animation](https://github.com/maryam-farmani/maryam-farmani/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-<div align="center">
+> “Good architecture is not about adding complexity. It's about making complexity manageable.”
 
-*"Good architecture is not about adding complexity. It's about making complexity manageable."*
-
-<br><br>
-
-<a href="mailto:farmanimaryam01@gmail.com">Email</a>
-•
-<a href="https://linkedin.com/in/maryam-farmani">LinkedIn</a>
-•
-<a href="https://github.com/maryam-farmani">GitHub</a>
-
-</div>
+[Email](mailto:farmanimaryam01@gmail.com) • [LinkedIn](https://www.linkedin.com/in/maryam-farmani-2a52b3243) • [GitHub](https://github.com/maryam-farmani)
